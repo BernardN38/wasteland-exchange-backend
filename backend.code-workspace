@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "auth-service"
+		},
+		{
+			"path": "game-service"
+		},
+		{
+			"path": "project"
+		}
+	]
+}
